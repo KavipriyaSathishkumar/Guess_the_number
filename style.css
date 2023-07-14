@@ -1,0 +1,21 @@
+body{
+
+    background-color: grey;
+}
+h1{
+    text-align: center;
+}
+#num{
+    margin: auto;
+    height: 350px;
+    width:900px ;
+    box-shadow:5px 5px 5px whitesmoke;
+    background: linear-gradient(pink,white);
+    border: 5px solid black;
+    margin-top: 10%;
+}
+#result{
+    height: 50px;
+    width: fit-content;
+    margin-top: 5%;
+}
